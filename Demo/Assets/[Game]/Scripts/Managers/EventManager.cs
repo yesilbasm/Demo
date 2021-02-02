@@ -1,0 +1,19 @@
+﻿using UnityEngine.Events;
+
+public static class EventManager 
+{
+
+  public static UnityEvent OnPathNewCreated = new UnityEvent();
+  public static UnityEvent OnEggCollected = new UnityEvent();
+
+  public static UnityEvent OnMove  = new UnityEvent();
+  public static UnityEvent OnStop = new UnityEvent();
+  public static UnityEvent OnGameStart = new UnityEvent();
+  public static UnityEvent OnGameEnd = new UnityEvent();
+  public static UnityEvent OnLevelStart = new UnityEvent();
+  public static UnityEvent OnLevelEnd = new UnityEvent();
+ 
+
+ 
+
+}
