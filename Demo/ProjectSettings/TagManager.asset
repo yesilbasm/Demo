@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - mainCamera
+  - FxTemporaire
+  - Character
+  - FinishCam
+  - EscapeTarget
   layers:
   - Default
   - TransparentFX
@@ -14,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Obstacles
+  - Target
   - 
   - 
   - 
